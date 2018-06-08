@@ -10,7 +10,7 @@ public class Main {
         Collections.addAll(list1, 1, 5, 6, 11, 3, 15, 7, 8);   //заполнение списка
 
         ArrayList<Integer> list2 = new ArrayList<>();
-        Collections.addAll(list2, 1, 8, 6, 21, 53, 5, 57, 234234);
+        Collections.addAll(list2, 1, 8, 6, 21, 53, 5, 57, 456);
 
         ArrayList<Integer> result = new ArrayList<>();
 
